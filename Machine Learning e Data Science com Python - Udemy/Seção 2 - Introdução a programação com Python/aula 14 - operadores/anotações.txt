@@ -1,0 +1,31 @@
+operadores relacionais: utilizados para comparação logica. Os resultados
+podem ser True ou False
+
+igualdade: ==
+comentario unica linha: #
+maior que: >
+menor que: < 
+diferente: !=
+maior ou igual: >=
+menor ou igual: <=
+
+
+==================================================================
+
+operadores aritiméticos:
+
+soma: +
+diferença: - 
+multificação: *
+divisão: /
+divisão inteira: //
+resto: % 
+exponenciação: **
+
+==================================================================
+
+operadores lógicos
+
+negação (operador unário): not
+e(conjunção. operador binário): and
+ou(disjunção. operador binário): or

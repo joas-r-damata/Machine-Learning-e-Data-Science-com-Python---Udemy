@@ -1,0 +1,13 @@
+Variáveis em python são rotulos. Que referenciam objetos
+
+Duas varáveis podem apontar para o mesmo objeto.
+
+As variaáveis em python são dinamicamente tipadas, ou seja, não é necessário, ao nomear uma variável, especificar o seu tipo.
+
+
+As variaveis básicas em python são:
+
+inteiros
+float
+booleano
+texto

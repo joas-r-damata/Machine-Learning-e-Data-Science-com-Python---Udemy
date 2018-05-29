@@ -1,0 +1,30 @@
+String é uma sequencia de caracteres
+
+alguns metodos uteis:
+
+len(string), retorna o tamanho da string
+string[0], acessa o 1º caractere da string
+string[-1], acessa o último caractere da string
+
+
+
+==============================================================================================
+Uma string é imutavél, ou seja, após inicia-la com um valor, não se pode alter seu conteudo
+
+*fatiamento: 
+-os 3 primeiros caracteres, nome[0:3].
+-todo o conteudo a partir do 0, nome[0:]
+-todo o conteudo a partir do 1, nome[1:]
+-todo o conteudo, nome[:]
+-os n ultimos caracteres da string, nome[-3:]
+
+*concatenação: 
+nome = "joas "
+sobrenome = "rodrigues"
+
+nome_completo = nome + sobrenome
+
+
+*strings iguais podem ter rotulos diferentes, mas seu identificador de memoria sera o mesmo
+
+*para mais informações sobre a classe str, basta ir até o idle e digitar: help(str)
