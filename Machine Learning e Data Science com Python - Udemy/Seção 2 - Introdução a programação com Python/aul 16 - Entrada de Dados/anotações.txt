@@ -1,0 +1,13 @@
+*entrada de dados
+
+nome = input("digite seu nome >> ")
+print(nome)
+
+
+*converssão de dados:
+-ao ler dados do teclado, por padrão esses dados são do tipo string (str)
+-para converte-los para algum tipo especifico deve-se fazer
+
+idade = input("digite sua idade >> ")
+idade = int(idade)
+print(idade)
