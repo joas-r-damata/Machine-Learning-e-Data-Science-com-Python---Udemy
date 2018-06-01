@@ -1,0 +1,14 @@
+from entrada import *
+acima temos um import universas. Importa todas as funções implementadas no arquivo entrada
+
+o perigo de usar o import universal é:
+caso voce tenha outro arquivo com nomes de funções iguais ao do arquivo entrada
+e também faça o import universal deste, ao chamar uma função o arquivo que prevalecerá
+será o último a ser chamado
+
+
+
+
+from my_math import area_quad
+
+acima temos um import especifico da função area_quad

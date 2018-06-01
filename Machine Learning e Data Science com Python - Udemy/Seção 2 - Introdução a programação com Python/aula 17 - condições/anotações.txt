@@ -1,0 +1,18 @@
+as condições são testadas pelas palavras chaves abaixo:
+
+if,
+else,
+elif
+
+if <condição>:
+    bloco de codigo
+else:
+    bloco de código secundario
+
+
+if <condição>:
+    if<condição>:
+        bloco de código
+    elif <condição>:
+        bloco de código
+        

@@ -1,0 +1,22 @@
+# quantidade indefinida de argumentos em uma função
+
+# o operador * transforma uma lista em vários argumentos 
+
+def f(*args):
+    print(*args)
+    
+f(*[1,2,3])  #passa-se o argumento dessa forma se queremos que ele seja desenpacotado
+
+===
+
+
+#aqui temos os argumentos recebidos como uma tupla
+f(1,2,3)
+
+
+===
+#passando os argumentos em uma lista
+
+def f2(x,y,z):
+    print(x,y,z)
+f2(*[1,2,3])

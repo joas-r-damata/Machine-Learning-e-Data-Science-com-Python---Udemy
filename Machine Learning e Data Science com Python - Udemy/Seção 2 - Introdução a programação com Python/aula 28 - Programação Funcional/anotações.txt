@@ -1,0 +1,8 @@
+built in
+função anonima
+lambda
+map
+filter
+
+funções anonimas são obtidas através das expressões lambda. Funções descartavéis, que só serão usadas
+em algum momento especifico.

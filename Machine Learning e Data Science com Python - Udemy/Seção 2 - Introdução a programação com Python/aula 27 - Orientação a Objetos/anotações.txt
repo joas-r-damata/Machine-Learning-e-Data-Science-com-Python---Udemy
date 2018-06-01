@@ -1,0 +1,10 @@
+classes e objetos
+
+
+a orientação a objetos auxilia escrita e manutenção de nossos programas.
+
+classes são um novo tipo de dados que agrupa dados e funções em uma única estrutura
+
+um objeto é uma instancia de uma classe
+
+a função def __init__(self,...) é o construtor da classe. É ele quem incia os valores padrões dos objetos

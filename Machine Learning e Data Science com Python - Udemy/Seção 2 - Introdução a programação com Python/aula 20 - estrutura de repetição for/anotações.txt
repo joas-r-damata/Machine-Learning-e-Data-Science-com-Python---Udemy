@@ -1,0 +1,1 @@
+o for é um laço de repetição que itera elemento a elemento sobre objetos como: strings, listas, tuplas, set

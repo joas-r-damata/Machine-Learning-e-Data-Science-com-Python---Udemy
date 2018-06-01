@@ -1,0 +1,4 @@
+conjuntos na linguagem python são estruturas que agrupam elementos
+desordenados sem repetição.
+
+conjuntos não suportam indexação, nem fatiamento.
