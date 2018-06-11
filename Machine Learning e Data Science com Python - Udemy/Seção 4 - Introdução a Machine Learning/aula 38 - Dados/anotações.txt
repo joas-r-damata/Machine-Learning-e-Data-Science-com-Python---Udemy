@@ -1,0 +1,4 @@
+Os dados contidos na web, geralmente são transformados para o formata: atributo - valor
+
+Em uma tabela cada linha, com suas diversas colunas é entendida como um objeto, onde cada coluna é um atributo, e é 
+denominado como vetor de caracteristicas

@@ -1,0 +1,13 @@
+#As escalas de atributos definem quais tipos de operações podem ser
+feitas com cada atributo.
+
+
+
+#As escalas de atributos são as seguintes:
+*qualitativos
+Nominal(operaçẽos: ordem, diferença)
+Ordinal()
+
+*quantitativos
+Intervalar
+Racional

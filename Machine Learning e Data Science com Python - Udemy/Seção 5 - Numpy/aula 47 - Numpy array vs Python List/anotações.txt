@@ -1,0 +1,2 @@
+As estrutura em numpy consomem menos memória. Para uma pequena quantidade de dados, talvez isso não faça diferença, mas
+quando se trabalha com uma quantidade de dados enorme a economia de memória é substancial

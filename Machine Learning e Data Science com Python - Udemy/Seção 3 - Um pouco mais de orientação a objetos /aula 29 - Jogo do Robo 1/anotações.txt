@@ -1,0 +1,3 @@
+Classe: tipo de dados(estrutura) que agrupa atributos e métodos que manipulam esse atributo.
+
+Classe especifica herda classe generica.

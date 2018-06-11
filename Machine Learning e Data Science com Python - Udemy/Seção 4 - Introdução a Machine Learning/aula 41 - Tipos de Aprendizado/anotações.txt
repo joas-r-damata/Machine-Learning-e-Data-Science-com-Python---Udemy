@@ -1,0 +1,5 @@
+# São dois, os tipos:
+supervisionado
+não supervisionado
+
+# ambos são aprendizados indutivos

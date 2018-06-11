@@ -1,0 +1,31 @@
+# Aplicações de Machine Learning:
+i) Detecção de Fraudes
+ii) Análise de sentimente baseado em texto
+iii) Reconhecimento de padrões
+iv) Filtragem de spams no e-mail
+v) Anúncios na web em tempo real
+
+
+# Tipos de aprendizado:
+i) Supervisionado
+ii) Não Supervisionado
+iii) Semi-Supervisionado
+iv) Aprendizado por Reforço
+
+
+# Técnicas de aprendizado:
+i) Redes Neurias
+ii) Árvores de Decisão
+iii) KNN
+iv) K-Means
+v) Redes Bayesianas
+vi) Máquina de Vetor de Suporte(SVM's)
+vii) Regressão Linear
+viii) Regressão Logistica
+
+
+# Existe técnica melhor ?
+i) existe a técnica mais adequada a cada situação
+
+# 
+i) a maior parte do aprendizado de maquina é supervisionado

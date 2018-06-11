@@ -1,0 +1,7 @@
+* atributos qualitativos
+simbolico ou categorico
+pode ser ordenado
+não se aplica operações aritiméticas
+
+*atributos quantitativos(discreto, continuo)
+numérico
